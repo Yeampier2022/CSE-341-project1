@@ -25,7 +25,7 @@ const initDb = (callback) => {
 
 const getDb = () => {
   if (!database) {
-    throw new Error('Db has not been initialized. Please call init first.');
+    throw new Error('Db has not been initialized');
   }
     return database;
 }
