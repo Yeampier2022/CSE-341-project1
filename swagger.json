@@ -5,10 +5,10 @@
     "title": "REST API",
     "description": ""
   },
-  "host": "https://project-byui-crud.onrender.com",
+  "host": "cse-341-project1-tds0.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/": {
